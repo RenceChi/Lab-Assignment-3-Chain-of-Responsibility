@@ -8,5 +8,7 @@
 The system should initialize a chain of waste collectors, each responsible for a different type of waste.
 When a waste container is full or needs disposal, the system should trigger the waste collection process.
 The appropriate waste collector in the chain should handle the disposal based on the type and capacity of the waste container.</p>
-<p>4. Validation: Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.</p
+<p>4. Validation: Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.</p>
+
 <h1>UML Class Diagram</h1>
+<img width="958" height="449" alt="image" src="https://github.com/user-attachments/assets/3d5bbce9-0309-47c6-94af-9e63eb9b76ba" />
